@@ -12,4 +12,4 @@
 
 ## 📫 Contact
 - Email: your-email@example.com  
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/qichang-lei-sde/)
+- LinkedIn: [Qichang Lei (Ray)](https://www.linkedin.com/in/qichang-lei-sde/)
