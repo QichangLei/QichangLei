@@ -11,5 +11,5 @@
 - 🎮 Lightweight Screenshot App – open-source utility  
 
 ## 📫 Contact
-- Email: your-email@example.com  
+- Email: ql56@rice.edu  
 - LinkedIn: [Qichang Lei (Ray)](https://www.linkedin.com/in/qichang-lei-sde/)
