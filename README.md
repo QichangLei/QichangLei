@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Qichang! 👋
 
-<!--
-**QichangLei/QichangLei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student at Rice University  
+🔧 Working on: Logistics optimization, OSRM routing, ML/AI systems  
+💼 Interested in SWE + scalable systems + ML infra  
+🌱 Currently learning: GCP, distributed systems, optimization algorithms  
 
-Here are some ideas to get you started:
+## 🔭 Featured Projects
+- 🚚 Honeycomb Routing – logistics optimization with OSRM + energy price modeling  
+- 🔍 Face Recognition PCA – dimensionality reduction + eigenfaces  
+- 🎮 Lightweight Screenshot App – open-source utility  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- Email: your-email@example.com  
+- LinkedIn: [Your Profile](https://www.linkedin.com/in/qichang-lei-sde/)
